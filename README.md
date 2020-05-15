@@ -8,7 +8,7 @@ Mister Dizzy - Present Haze: interactive album
 
 ## How to play
 
-The ```dist/``` directory contains everything you need. Just run ```Haze.bat``` for Windows, or ```Haze.sh``` for Mac OS and Linux.
+The ```dist/``` directory contains everything you need. Just take it out of the .zip folder and run ```Haze.bat``` for Windows, or ```Haze.sh``` for Mac OS and Linux.
 
 ## Contributing
 
