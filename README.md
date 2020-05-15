@@ -19,3 +19,5 @@ Feel free to submit an [issue](https://github.com/wilsocr88/haze-maze/issues) or
 ## The music
 
 [Get the album, Present Haze.](https://misterdizzy.bandcamp.com/album/present-haze)
+
+## [Code License](https://github.com/wilsocr88/haze-maze/blob/master/LICENSE)
