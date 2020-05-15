@@ -1,5 +1,7 @@
 # Haze Maze
 
+<img src="https://f4.bcbits.com/img/a1438785387_16.jpg" alt="" />
+
 Mister Dizzy - Present Haze: interactive album
 
 ## Requirements
